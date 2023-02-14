@@ -1,0 +1,93 @@
+{
+  "id": "-FDxWZvj_A8",
+  "downloads": {
+    "total": 3102,
+    "historical": {
+      "change": 1972,
+      "resolution": "days",
+      "quantity": 30,
+      "values": [
+        {
+          "date": "2023-01-08",
+          "value": 24
+        },
+        {
+          "date": "2023-01-09",
+          "value": 9
+        },
+        {
+          "date": "2023-01-10",
+          "value": 26
+        }
+      ]
+    }
+  },
+  "views": {
+    "total": 327191,
+    "historical": {
+      "change": 218505,
+      "resolution": "days",
+      "quantity": 30,
+      "values": [
+        {
+          "date": "2023-01-08",
+          "value": 4140
+        },
+        {
+          "date": "2023-01-09",
+          "value": 4971
+        },
+        {
+          "date": "2023-01-10",
+          "value": 5242
+        }
+      ]
+    }
+  },
+  "likes": {
+    "total": 0,
+    "historical": {
+      "change": 0,
+      "resolution": "days",
+      "quantity": 30,
+      "values": [
+        {
+          "date": "2023-01-02",
+          "value": 0
+        },
+        {
+          "date": "2023-01-03",
+          "value": 0
+        },
+        {
+          "date": "2023-01-04",
+          "value": 0
+        },
+        {
+          "date": "2023-01-05",
+          "value": 0
+        },
+        {
+          "date": "2023-01-06",
+          "value": 0
+        },
+        {
+          "date": "2023-01-07",
+          "value": 0
+        },
+        {
+          "date": "2023-01-08",
+          "value": 0
+        },
+        {
+          "date": "2023-01-09",
+          "value": 0
+        },
+        {
+          "date": "2023-01-10",
+          "value": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LangAssignment</string>
+    <string name="title_activity_lang">LangActivity</string>
+
+    <!-- Chart -->
+    <string name="chart_toolbar_title">Popular Movies</string>
+    <string name="chart_fragment_label">Chart Fragment</string>
+    <string name="chart_title">Title</string>
+    <string name="chart_sync_favorite_failed">Sync favorite movie failed.</string>
+    <string name="chart_footer_reach_the_limit">Reach the limit</string>
+    <string name="chart_footer_empty">Empty</string>
+    <string name="chart_footer_loading_error">Loading error.</string>
+    <string name="chart_footer_retry">Retry</string>
+
+    <!-- Detail -->
+    <string name="detail_toolbar_title">Movie Detail</string>
+    <string name="detail_fragment_label">Detail Fragment</string>
+    <string name="detail_title">Title</string>
+    <string name="detail_description_title">Description</string>
+</resources>
